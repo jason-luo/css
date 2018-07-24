@@ -13,28 +13,21 @@
 @colordef #369;    dark blue
 */
 
-/*
- * @group general styles
- * /
+/* @group general styles */
+* {
+	margin: 0;
+	padding: 0;	
+}	
+
+
+/* @group helper styles */ 
 
 
 
-/*
- * @group helper styles
- */ 
+/* @group page structure */
 
 
-
-/*
- * @group page structure
- */
+/* @group page components */
 
 
-/*
- * @group page components
- */
-
-
-/*
- * @group override
- */
+/* @group override */
